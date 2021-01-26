@@ -1,5 +1,9 @@
 # Audiobooks Project
 
+### IMPORTANT NOTE:
+If the notebook is not loading in Github it can alternatively be viewed on this link via nbviewer.
+https://nbviewer.jupyter.org/github/epiacentini/Audiobooks_Customer_Return_Predictor/blob/main/AudioBooks_Return_Customer.ipynb
+
 Understanding and being able to identify which customers are likely to purchase/use your product again is extremely important. In this project I set out to do exactly. With a dataset containing real information gathered from Audiobooks I was able to create and train a model that will predict whether or not a previous customer will purchase another audiobook in the future. There are multiple ways that Audiobooks can utilize a model like such as this one to improve their services. 
 If they have a list of all the users that are predicted to be return customers they can send those customers more promotions and emails that they would be interested in. They could target more advertisements relating to audiobooks to the individual and expend more energy to them because there is a higher likelihood it will convert to them purchasing more product in the future. Additionally, the converse can be said. If they have users who are believed to not be repeat customers, they can try and find out why that is and change it. This can be achieved through surveys or questionnaires. It also depends on the company, you can either put no energy into low-likelihood repeat customers because there is a low chance they will generate revenue or you can put a lot of energy into these customers because you know the high-likelihood customers will comeback regardless of incentive.
 
